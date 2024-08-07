@@ -12,7 +12,7 @@
  # © 2024 Bada Imambada Bilgram. All rights reserved.                                                                                                                                   Contact us at:  Phone: 8808254000                                                                                                                                                    
 # Email: badaimambadabilgram@gmail.com  
 # Some Imambada's of Bilgram are:
-# Imambada Mehdi Haider
+# Imambada Mehdi Haider (Chota Imambada)
 # Ahmad Miya Ka Imambada
 # Mustafa Miya Ka Imambada
 # Imambada Oonchmadi 
