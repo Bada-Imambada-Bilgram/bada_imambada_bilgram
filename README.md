@@ -16,6 +16,8 @@
 # Ahmad Miya Ka Imambada
 # Mustafa Miya Ka Imambada
 # Imambada Oonchmadi 
+# Betiyo ka Imambada
+# Jhundar bibi Ka Imambada
 
 body {
     font-family: Arial, sans-serif;
